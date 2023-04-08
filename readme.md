@@ -14,6 +14,18 @@ Hey I am Akshun Verma.  Fullstack Javascript Developer from Delhi. Very much eag
 
 
 ## Here are some links of the websites: 
+
+
+#### [See what you type](see-what-you-type45.netlify.app)
+
+#### [Sort the courses](sort-the-courses45.netlify.app)
+
+#### [Binary to decimal](binary-to-decimal45.netlify.app)
+
+#### [Color Changer](color-changer45.netlify.app)
+
+#### [Basic Counter](basiccounter45.netlify.app)
+
 #### [Calculator](https://alpha-calculator.netlify.app)
 
 #### [Stopwatch](https://stopwatch3945.netlify.app)
@@ -32,25 +44,16 @@ Hey I am Akshun Verma.  Fullstack Javascript Developer from Delhi. Very much eag
 
 #### [Rock Paper Scissor](https://rock-paper-scissor-game45.netlify.app)
 
-#### [See what you type](see-what-you-type45.netlify.app)
-
-#### [Sort the courses](sort-the-courses45.netlify.app)
-
-#### [Binary to decimal](binary-to-decimal45.netlify.app)
-
-#### [Color Changer](color-changer45.netlify.app)
-
  
 
-
-
-
-
+### This assignment is all part of Ineuron course. 
 
 
 
 #### Do reach out and provide your valuable insights about all these mini projects. I appreciate your inputs.
 #### Do reach out if you have any project idea let's work together and achieve goals.
+
+## Thanks for spending your valuable time on this project 😄
 
 
 
